@@ -35,7 +35,7 @@
 
 ###
 
-<img align="right" height="140" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmQ1YmhzYm03aHM5MzB5aXlha2I3bnowamdseHd0dG8wNGFveGxocyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dxld1UBIiGuoh31Fus/giphy.gif"  />
+
 
 ###
 
@@ -79,7 +79,7 @@
 
 <br clear="both">
 
-<img align="left" height="140" src="https://media4.giphy.com/media/T5V9SaaLQQHhw9fckE/200.webp?cid=ecf05e477zl4wwpkhd7x3jdy3stl2yyrahjwjhqanht6kalz&ep=v1_gifs_search&rid=200.webp&ct=g"  />
+
 
 ###
 
@@ -131,7 +131,6 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDg4NHJxYjdvN3VuODFkendoc2Nvdzg4NXF0ZXl2ZXV0eTBzMjZwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GRSnxyhJnPsaQy9YLn/giphy.gif"  />
 
 ###
 
