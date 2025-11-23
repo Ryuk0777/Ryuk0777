@@ -71,12 +71,11 @@
 
 ###
 
+<br clear="both">
 
 <h4 align="left">🌐 Web Dev</h4>
 
 ###
-
-<br clear="both">
 
 
 
@@ -122,13 +121,11 @@
 
 ###
 
+<br clear="both">
 
 <h4 align="left">📱 Mobile Dev & others</h4>
 
 ###
-
-<br clear="both">
-
 
 
 ###
